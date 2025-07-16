@@ -1,0 +1,27 @@
+{
+  "version": "3.101.34961.0",
+  "course_id": "6Xfnk2YkmDn",
+  "title": "MTF_Practice-Based Research Proposal-EPI",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "EPI"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5nw0dswuels",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 583
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
