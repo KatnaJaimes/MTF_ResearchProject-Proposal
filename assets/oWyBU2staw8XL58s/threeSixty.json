@@ -1,0 +1,35 @@
+{
+  "version": "3.102.35072.0",
+  "course_id": "6Xfnk2YkmDn",
+  "title": "MTF_Practice-Based Research Proposal-Timeline Table",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "EPI"
+    },
+    {
+      "title": "Gantt Timeline - Database"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5nw0dswuels",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5bR8IAIdv6g",
+      "title": "Gantt - Database",
+      "scene_index": "2.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 583
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
